@@ -5304,34 +5304,6 @@
       <change afterPath="$PROJECT_DIR$/../Git/usr/ssl/misc/c_name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Git/usr/ssl/misc/tsget" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Git/usr/ssl/openssl.cnf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/work17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/assert_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/conf_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/excel_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/log_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/mysql_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/path_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/replace_option.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conf/conf.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datas/cases.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_1_register.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_2_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_3_recharge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_4_withdraw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_5_updateinfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_6_getinfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_7_add.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_8_audit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_9_invest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -5605,9 +5577,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="661" />
-    <option name="y" value="76" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="513" />
+    <option name="y" value="-15" />
     <option name="width" value="1645" />
     <option name="height" value="1095" />
   </component>
@@ -5639,7 +5611,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -5792,7 +5764,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610180751135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前程贷接口测试">
+      <created>1610181482737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610181482737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -5828,9 +5807,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="661" y="76" width="1645" height="1095" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.152458" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12908325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
@@ -5843,7 +5822,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.64932364" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.6767896" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
